@@ -1,3 +1,10 @@
+
+# Project Description
+
+This project was continue from senior's Japan Internship project.
+
+Origin (https://github.com/worachatsun/Intern_Japan_CodeWiki_API)
+
 # Project setup
 
 1. Clone this repository.
@@ -16,7 +23,7 @@
 
 3. Mongo DB
 
-* You need to run both of Front-end and Back-end as the same time. (https://github.com/worachatsun/Intern_Japan_CodeWiki)
+* You need to run both of Front-end and Back-end as the same time. (https://github.com/punchup28/Intern_CodeWiki)
 
 # Libraries
 
